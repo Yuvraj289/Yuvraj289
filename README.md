@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development, AI, and exploring open-source projects.
 - 🌱 I’m currently learning MERN Stack Development.
 - 💞️ I’m looking to collaborate on exciting open-source projects, AI-based applications, and innovative tech solutions.
-- 📫 How to reach me: You can reach me via email at ryuvraj2892006@gmail.com or connect with me on LinkedIn.
+- 📫 How to reach me: You can reach me via email at ryuvraj2892006@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/yuvraj-raja-075134313/.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I can code for hours with lo-fi music and coffee as my only companions!
 
